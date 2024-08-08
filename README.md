@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <a href="https://www.linkedin.com/in/khushi-mishra-a81a56223/" target="blank"><img src="https://img.shields.io/twitter/follow/khushimish89445?logo=twitter&style=for-the-badge" alt="Connect on Linkedin" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/khushi-mishra-a81a56223/" target="blank"><img src="https://img.shields.io/twitter/follow/Connect on Linkedin?logo=twitter&style=for-the-badge" alt="Connect on Linkedin" /></a> </p>
 
 - 💬 Ask me about **Full Stack Web Development and Software Development**
 
